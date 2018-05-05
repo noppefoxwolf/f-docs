@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "KitsuneCoinについて"
-date:   2018-05-06 03:23:55 +0900
+date:   2018-05-06 04:32:55 +0900
 categories: privacy
 ---
 
